@@ -1,2 +1,2 @@
-git is a version conntrol system.
+git is a destributed version conntrol system.
 gti is free software.
